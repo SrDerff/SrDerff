@@ -1,12 +1,3 @@
-<!--
-  Personaliza estos valores:
-  - TU_USUARIO: tu usuario de GitHub
-  - TU_LINKEDIN: tu perfil de LinkedIn
-  - TU_EMAIL: tu correo
-  - FOTO_URL: URL de tu foto real
-  - TU_FRASE: una frase corta que te represente
--->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D0D1A,50:7C2D12,100:FF4D6D&text=Derff&fontColor=FFFFFF&fontSize=68&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" alt="Alex - Software Engineering Student" />
@@ -153,10 +144,11 @@ mindset         Build first. Improve always.
 
 <div align="center">
 
-<a href="https://github.com/SrDerff">
+<a href="https://github.com/SrDerff" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-0D0D1A?style=for-the-badge&logo=github&logoColor=FF4D6D" alt="GitHub" />
 </a>
-<a href="https://www.linkedin.com/in/alexander-li%C3%B1an-lezama-3149b9383/">
+<a href="https://www.linkedin.com/in/alexander-li%C3%B1an-lezama-3149b9383/" 
+target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0D0D1A?style=for-the-badge&logo=linkedin&logoColor=FF6B35" alt="LinkedIn" />
 </a>
 <a href="mailto:srderfflinqer@gmail.com">
