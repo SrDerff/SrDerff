@@ -9,22 +9,22 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D0D1A,50:7C2D12,100:FF4D6D&text=Alex&fontColor=FFFFFF&fontSize=68&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" alt="Alex - Software Engineering Student" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D0D1A,50:7C2D12,100:FF4D6D&text=Derff&fontColor=FFFFFF&fontSize=68&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" alt="Alex - Software Engineering Student" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/UPC-Software%20Engineering-FF4D6D?style=for-the-badge&labelColor=0D0D1A" alt="UPC Software Engineering" />
-<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-FF6B35?style=for-the-badge&labelColor=0D0D1A" alt="Artificial Intelligence" />
+<img src="https://img.shields.io/badge/UPC-Software%20Engineering-FF4D6D?style=for-the-badge&labelColor=0D0D1A" alt="UPC Software Engineering" /> 
+<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-FF6B35?style=for-the-badge&labelColor=0D0D1A" alt="Artificial Intelligence" /><br>
 <img src="https://img.shields.io/badge/Code-C%2B%2B%20%7C%20Python%20%7C%20JS-FF8C42?style=for-the-badge&labelColor=0D0D1A" alt="C++, Python and JavaScript" />
 
-<br>
+<br><br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=FF4D6D&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Artificial+Intelligence+Enthusiast;Backend+Developer;Full+Stack+Learner;Always+Building+Something+New"/>
 
-<h3>Building software with strong foundations and a clear purpose.</h3>
+<h3>Building things that make tomorrow a little easier than today :)</h3>
 
 <p>
-  <em>"TU_FRASE: escribe aquí una frase corta, auténtica y tuya."</em>
+  <em>"Every great tool begins with a simple question: "How can this be easier?""</em>
 </p>
 
 </div>
@@ -39,7 +39,7 @@ Right now I'm focused on strengthening my foundations in algorithms, data struct
 
 ```txt
 current_focus   Data Structures · Backend · Artificial Intelligence
-main_language   C++
+main_language   C++ · Python · JS · TS
 learning_next   Python for Machine Learning
 mindset         Build first. Improve always.
 ```
