@@ -23,10 +23,7 @@
 
 <h3>Building things that make tomorrow a little easier than today :)</h3>
 
-<p>
-  <em>"Every great tool begins with a simple question: "How can this be easier?""</em>
-</p>
-
+<br>
 </div>
 
 ---
@@ -51,7 +48,7 @@ mindset         Build first. Improve always.
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,java&theme=dark" alt="Languages" />
 </p>
 
 ### Frontend
@@ -63,13 +60,13 @@ mindset         Build first. Improve always.
 ### Backend & Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,postgres,mongodb&theme=dark" alt="Backend and databases" />
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,mysql&theme=dark" alt="Backend and databases" />
 </p>
 
 ### Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Tools" />
 </p>
 
 ---
@@ -145,8 +142,8 @@ mindset         Build first. Improve always.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=0D0D1A&title_color=FF4D6D&text_color=E6E6FA&icon_color=FF6B35&rank_icon=github" alt="GitHub stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&bg_color=0D0D1A&title_color=FF4D6D&text_color=E6E6FA" alt="Top languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SrDerff&theme=synthwave" alt="GitHub stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SrDerff&theme=synthwave" alt="Top languages" />
 
 </div>
 
@@ -156,19 +153,19 @@ mindset         Build first. Improve always.
 
 <div align="center">
 
-<a href="https://github.com/TU_USUARIO">
+<a href="https://github.com/SrDerff">
   <img src="https://img.shields.io/badge/GitHub-0D0D1A?style=for-the-badge&logo=github&logoColor=FF4D6D" alt="GitHub" />
 </a>
-<a href="https://www.linkedin.com/in/TU_LINKEDIN">
+<a href="https://www.linkedin.com/in/alexander-li%C3%B1an-lezama-3149b9383/">
   <img src="https://img.shields.io/badge/LinkedIn-0D0D1A?style=for-the-badge&logo=linkedin&logoColor=FF6B35" alt="LinkedIn" />
 </a>
-<a href="mailto:TU_EMAIL">
+<a href="mailto:srderfflinqer@gmail.com">
   <img src="https://img.shields.io/badge/Email-0D0D1A?style=for-the-badge&logo=gmail&logoColor=FF8C42" alt="Email" />
 </a>
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20views&color=FF4D6D&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=SrDerff&label=Profile%20views&color=FF4D6D&style=flat-square" alt="Profile views" />
 
 </div>
 
