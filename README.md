@@ -1,526 +1,181 @@
-<!-- ===================================================== -->
-<!--                     HEADER                            -->
-<!-- ===================================================== -->
+<!--
+  Personaliza estos valores:
+  - TU_USUARIO: tu usuario de GitHub
+  - TU_LINKEDIN: tu perfil de LinkedIn
+  - TU_EMAIL: tu correo
+  - FOTO_URL: URL de tu foto real
+  - TU_FRASE: una frase corta que te represente
+-->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:2563EB,100:06B6D4&text=Alex&fontSize=65&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineering%20Student%20|%20Future%20AI%20Engineer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D0D1A,50:7C2D12,100:FF4D6D&text=Alex&fontColor=FFFFFF&fontSize=68&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" alt="Alex - Software Engineering Student" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/UPC-Software%20Engineering-FF4D6D?style=for-the-badge&labelColor=0D0D1A" alt="UPC Software Engineering" />
+<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-FF6B35?style=for-the-badge&labelColor=0D0D1A" alt="Artificial Intelligence" />
+<img src="https://img.shields.io/badge/Code-C%2B%2B%20%7C%20Python%20%7C%20JS-FF8C42?style=for-the-badge&labelColor=0D0D1A" alt="C++, Python and JavaScript" />
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Artificial+Intelligence+Enthusiast;Backend+Developer;Full+Stack+Learner;Always+Building+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=FF4D6D&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Artificial+Intelligence+Enthusiast;Backend+Developer;Full+Stack+Learner;Always+Building+Something+New"/>
 
-<br><br>
+<h3>Building software with strong foundations and a clear purpose.</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SrDerff&style=for-the-badge&color=0e75b6)
-
-![Followers](https://img.shields.io/github/followers/SrDerff?style=for-the-badge&logo=github)
-
-![Stars](https://img.shields.io/github/stars/SrDerff?affiliations=OWNER&style=for-the-badge&logo=github)
+<p>
+  <em>"TU_FRASE: escribe aquí una frase corta, auténtica y tuya."</em>
+</p>
 
 </div>
 
 ---
 
-# 👋 Hello World!
+# Hi! I'm Derff 👋
 
-I'm **Alex**, a **Software Engineering student** passionate about building software that solves real-world problems.
+I'm Alex (Derff), a Software Engineering student from Peru. I enjoy programming because it turns abstract ideas into something real, testable, and useful.
 
-My main interests are:
+Right now I'm focused on strengthening my foundations in algorithms, data structures, backend development, and AI. My goal is to build systems that are not only functional, but also clean, understandable, and valuable.
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- ⚙️ Backend Development
-- 🌐 Full Stack Applications
-- 🚀 Clean Code & Software Design
-
-My goal is to become an **AI Engineer**, creating intelligent systems that make people's lives easier.
-
----
-
-# 💻 Terminal
-
-```console
-alex@github:~$ whoami
-
-Alex
-
-alex@github:~$ whois alex
-
-Name.............. Alex
-Location.......... Peru 🇵🇪
-Occupation........ Software Engineering Student
-Current Focus..... Artificial Intelligence
-Favorite Language. C++
-Learning.......... Python & Machine Learning
-Dream Job......... AI Engineer
-
-Status............ Coding...
+```txt
+current_focus   Data Structures · Backend · Artificial Intelligence
+main_language   C++
+learning_next   Python for Machine Learning
+mindset         Build first. Improve always.
 ```
 
-<details>
-
-<summary>📄 cat about_me.json</summary>
-
-```json
-{
-    "name": "Alex",
-    "country": "Peru",
-    "role": "Software Engineering Student",
-    "languages": [
-        "C++",
-        "Python",
-        "JavaScript"
-    ],
-    "currently_learning": [
-        "Machine Learning",
-        "Deep Learning",
-        "Backend Development"
-    ],
-    "interests": [
-        "Artificial Intelligence",
-        "Software Architecture",
-        "Open Source",
-        "Web Development"
-    ],
-    "life_philosophy": "Keep learning. Keep building."
-}
-```
-
-</details>
-
 ---
 
-# 🚀 Quick Facts
+## Tech Stack
 
-| 💡 | |
-|:---|:---|
-| 🎓 | Software Engineering Student |
-| 🌎 | Peru 🇵🇪 |
-| 🤖 | Future AI Engineer |
-| 💻 | Backend & Full Stack |
-| 📚 | Currently learning Machine Learning |
-| ☕ | Powered by coffee and curiosity |
-
----
-
-<!-- ===================================================== -->
-<!--                   TECH STACK                          -->
-<!-- ===================================================== -->
-
-# 🛠 Tech Stack
-
-## 👨‍💻 Languages
+### Languages
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts&theme=dark" alt="Languages" />
+</p>
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+### Frontend
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" alt="Frontend" />
+</p>
+
+### Backend & Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,postgres,mongodb&theme=dark" alt="Backend and databases" />
+</p>
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" alt="Tools" />
 </p>
 
 ---
 
-## 🎨 Frontend
-
-<p align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-</p>
-
----
-
-## ⚙️ Backend
-
-<p align="center">
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-</p>
-
----
-
-## 🗄 Database
-
-<p align="center">
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</p>
-
----
-
-## 🧰 Tools
-
-<p align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</p>
-
----
-
-# 🚀 Featured Projects
+## Featured Work
 
 <table>
-
-<tr>
-
-<td width="50%">
-
-### 🏎 ASCII Racing Game
-
-A retro-style racing game built entirely in C++ using ASCII graphics.
-
-**Tech**
-
-`C++`
-`OOP`
-`Console`
-
-⭐ Pixel art
-
-</td>
-
-<td width="50%">
-
-### 🌐 ISP Management Platform
-
-A complete management system for an Internet Service Provider.
-
-**Tech**
-
-`React`
-`Node.js`
-`SQL`
-
-⭐ Full Stack
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🤖 AI Playground
-
-Experiments with Machine Learning and Artificial Intelligence.
-
-**Tech**
-
-`Python`
-
-`TensorFlow`
-
-`Scikit-Learn`
-
-⭐ AI
-
-</td>
-
-<td width="50%">
-
-### 📚 University Projects
-
-Algorithms, Data Structures, OOP and Software Engineering.
-
-⭐ Academic Portfolio
-
-</td>
-
-</tr>
-
+  <tr>
+    <td width="50%">
+      <h3>ASCII Racing Game</h3>
+      <p>Retro racing game built in C++ using console rendering and object-oriented programming.</p>
+      <p><strong>Focus:</strong> OOP, game loop, keyboard input, terminal graphics.</p>
+      <p><code>C++</code> <code>Console</code> <code>OOP</code></p>
+    </td>
+    <td width="50%">
+      <h3>ISP Management Platform</h3>
+      <p>Full-stack platform concept for managing clients, services, billing, and support tickets.</p>
+      <p><strong>Focus:</strong> CRUD, dashboard design, database modeling, API structure.</p>
+      <p><code>React</code> <code>Node.js</code> <code>SQL</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>AI Playground</h3>
+      <p>Small experiments to understand machine learning fundamentals through practical examples.</p>
+      <p><strong>Focus:</strong> Python, datasets, model training, experimentation.</p>
+      <p><code>Python</code> <code>ML</code> <code>TensorFlow</code></p>
+    </td>
+    <td width="50%">
+      <h3>University Projects</h3>
+      <p>Academic projects focused on algorithms, data structures, OOP, and software engineering practices.</p>
+      <p><strong>Focus:</strong> fundamentals, problem solving, clean implementations.</p>
+      <p><code>C++</code> <code>Algorithms</code> <code>Data Structures</code></p>
+    </td>
+  </tr>
 </table>
 
 ---
 
-# 📚 Currently Learning
+## Learning Roadmap
 
-```text
-Artificial Intelligence      ████████████░░░░░░░░
-
-Machine Learning             ██████████░░░░░░░░░
-
-Backend Development          ██████████████░░░░░
-
-Software Architecture        ████████░░░░░░░░░░░
-
-Cloud Computing              ████░░░░░░░░░░░░░░░
-```
+<table>
+  <tr>
+    <th>Area</th>
+    <th>Status</th>
+    <th>Why it matters</th>
+  </tr>
+  <tr>
+    <td>Modern C++</td>
+    <td>In progress</td>
+    <td>To write faster, safer, and more structured programs.</td>
+  </tr>
+  <tr>
+    <td>Data Structures</td>
+    <td>Active focus</td>
+    <td>To solve problems with the right model, not just code that works.</td>
+  </tr>
+  <tr>
+    <td>Backend Development</td>
+    <td>Building projects</td>
+    <td>To understand APIs, databases, auth, and real application flow.</td>
+  </tr>
+  <tr>
+    <td>Machine Learning</td>
+    <td>Learning foundations</td>
+    <td>To move toward practical AI engineering.</td>
+  </tr>
+</table>
 
 ---
 
-# 🎯 2026 Goals
-
-- ✅ Master Modern C++
-- ✅ Become proficient in Python
-- 🔄 Learn Machine Learning
-- 🔄 Build AI projects
-- 🔄 Contribute to Open Source
-- 🔄 Deploy Full Stack applications
-- 🔄 Get my first Software Engineering internship
-
----
-
-<!-- ===================================================== -->
-<!--                GITHUB DASHBOARD                       -->
-<!-- ===================================================== -->
-
-# 📊 GitHub Dashboard
+## GitHub Snapshot
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SrDerff&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrDerff&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=SrDerff&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=0D0D1A&title_color=FF4D6D&text_color=E6E6FA&icon_color=FF6B35&rank_icon=github" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&bg_color=0D0D1A&title_color=FF4D6D&text_color=E6E6FA" alt="Top languages" />
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+## Connect
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SrDerff&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SrDerff&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=2&column=4"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SrDerff/SrDerff/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-> **Note:** To enable the snake animation, create the GitHub Action described in the repository:  
-> https://github.com/Platane/snk
-
----
-
-# 🌍 Coding Around the World
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SrDerff&theme=tokyonight"/>
-
-<br><br>
-
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SrDerff&theme=tokyonight"/>
-
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SrDerff&theme=tokyonight"/>
-
-<br><br>
-
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SrDerff&theme=tokyonight"/>
-
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SrDerff&theme=tokyonight&utcOffset=-5"/>
-
-</div>
-
----
-
-# 📅 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-
-```text
-Python         8 hrs 42 mins   ████████████░░░░░░░░   44%
-
-C++            5 hrs 10 mins   ███████░░░░░░░░░░░░   26%
-
-JavaScript     3 hrs 45 mins   █████░░░░░░░░░░░░░░   19%
-
-HTML/CSS       1 hr 20 mins    ██░░░░░░░░░░░░░░░░░    7%
-
-Other          40 mins         ░░░░░░░░░░░░░░░░░░░    4%
-```
-
-<!--END_SECTION:waka-->
-
-> *This section updates automatically when WakaTime is configured.*
-
----
-
-# ⚡ Fun Fact
-
-```text
-while(alive){
-
-    Learn();
-
-    Build();
-
-    Share();
-
-    Repeat();
-
-}
-```
-
----
-
-<!-- ===================================================== -->
-<!--                    CONNECT                            -->
-<!-- ===================================================== -->
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/SrDerff">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/TU_USUARIO">
+  <img src="https://img.shields.io/badge/GitHub-0D0D1A?style=for-the-badge&logo=github&logoColor=FF4D6D" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/TU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0D0D1A?style=for-the-badge&logo=linkedin&logoColor=FF6B35" alt="LinkedIn" />
+</a>
+<a href="mailto:TU_EMAIL">
+  <img src="https://img.shields.io/badge/Email-0D0D1A?style=for-the-badge&logo=gmail&logoColor=FF8C42" alt="Email" />
 </a>
 
-<a href="https://www.linkedin.com/in/alexander-li%C3%B1an-lezama-3149b9383/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br /><br />
 
-<a href="mailto:srderfflinqer@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://alexander-linan.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20views&color=FF4D6D&style=flat-square" alt="Profile views" />
 
 </div>
 
----
-
-# 📌 Current Focus
+<br />
 
 <div align="center">
 
-| 🔭 Working On | 🌱 Learning | 🎯 Next Goal |
-|:-------------|:------------|:-------------|
-| Personal Projects | Machine Learning | AI Engineer |
-
-</div>
-
----
-
-# 💭 Philosophy
-
-<div align="center">
-
-> **"The best way to learn is by building."**
-
-> *Every project is an opportunity to improve, every bug is an opportunity to learn.*
-
-</div>
-
----
-
-# 📈 Profile Summary
-
-<div align="center">
-
-| Years Coding | Favorite Language | Favorite Field | Coffee |
-|:-----------:|:-----------------:|:--------------:|:------:|
-| ☕ Growing Every Day | C++ | Artificial Intelligence | Required |
-
-</div>
-
----
-
-# ⭐ Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/SrDerff">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SrDerff&repo=REPOSITORY_1&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/SrDerff">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SrDerff&repo=REPOSITORY_2&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/SrDerff">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SrDerff&repo=REPOSITORY_3&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/SrDerff">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SrDerff&repo=REPOSITORY_4&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
----
-
-# 🎵 Currently Listening To
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true"/>
-
-</div>
-
-> Remove this section if you don't use Spotify.
-
----
-
-# 👀 Visitor Counter
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SrDerff&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-## Thanks for visiting my profile! 🚀
-
-If you like my work, consider ⭐ starring a repository.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,100:06B6D4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0D0D1A,50:7C2D12,100:FF4D6D" alt="Footer" />
 
 </div>
