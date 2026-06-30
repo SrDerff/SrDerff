@@ -12,11 +12,11 @@
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6)
+![Profile Views](https://komarev.com/ghpvc/?username=SrDerff&style=for-the-badge&color=0e75b6)
 
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/github/followers/SrDerff?style=for-the-badge&logo=github)
 
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/github/stars/SrDerff?affiliations=OWNER&style=for-the-badge&logo=github)
 
 </div>
 
@@ -286,9 +286,9 @@ Cloud Computing              ████░░░░░░░░░░░░░
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SrDerff&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrDerff&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -296,7 +296,7 @@ Cloud Computing              ████░░░░░░░░░░░░░
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=SrDerff&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -306,7 +306,7 @@ Cloud Computing              ████░░░░░░░░░░░░░
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SrDerff&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
@@ -316,7 +316,7 @@ Cloud Computing              ████░░░░░░░░░░░░░
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SrDerff&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=2&column=4"/>
 
 </div>
 
@@ -326,7 +326,7 @@ Cloud Computing              ████░░░░░░░░░░░░░
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/SrDerff/SrDerff/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -339,19 +339,19 @@ Cloud Computing              ████░░░░░░░░░░░░░
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SrDerff&theme=tokyonight"/>
 
 <br><br>
 
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight"/>
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SrDerff&theme=tokyonight"/>
 
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight"/>
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SrDerff&theme=tokyonight"/>
 
 <br><br>
 
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight"/>
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SrDerff&theme=tokyonight"/>
 
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=tokyonight&utcOffset=-5"/>
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SrDerff&theme=tokyonight&utcOffset=-5"/>
 
 </div>
 
@@ -405,19 +405,19 @@ while(alive){
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/SrDerff">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/alexander-li%C3%B1an-lezama-3149b9383/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:srderfflinqer@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO">
+<a href="https://alexander-linan.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -465,12 +465,12 @@ while(alive){
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPOSITORY_1&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/SrDerff">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SrDerff&repo=REPOSITORY_1&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPOSITORY_2&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/SrDerff">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SrDerff&repo=REPOSITORY_2&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
@@ -479,12 +479,12 @@ while(alive){
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPOSITORY_3&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/SrDerff">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SrDerff&repo=REPOSITORY_3&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPOSITORY_4&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/SrDerff">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SrDerff&repo=REPOSITORY_4&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
@@ -507,7 +507,7 @@ while(alive){
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=SrDerff&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
