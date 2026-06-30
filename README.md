@@ -1,4 +1,3 @@
-````markdown
 <!-- ===================================================== -->
 <!--                     HEADER                            -->
 <!-- ===================================================== -->
@@ -104,9 +103,7 @@ Status............ Coding...
 | ☕ | Powered by coffee and curiosity |
 
 ---
-````
 
-````markdown id="8c5h9n"
 <!-- ===================================================== -->
 <!--                   TECH STACK                          -->
 <!-- ===================================================== -->
@@ -280,8 +277,7 @@ Cloud Computing              ████░░░░░░░░░░░░░
 - 🔄 Get my first Software Engineering internship
 
 ---
-````
-````markdown id="z8nq7v"
+
 <!-- ===================================================== -->
 <!--                GITHUB DASHBOARD                       -->
 <!-- ===================================================== -->
@@ -366,7 +362,7 @@ Cloud Computing              ████░░░░░░░░░░░░░
 <!--START_SECTION:waka-->
 
 ```text
-Python         8 hrs 42 mins   ███████████░░░░░░░░   44%
+Python         8 hrs 42 mins   ████████████░░░░░░░░   44%
 
 C++            5 hrs 10 mins   ███████░░░░░░░░░░░░   26%
 
@@ -400,8 +396,7 @@ while(alive){
 ```
 
 ---
-````
-```markdown
+
 <!-- ===================================================== -->
 <!--                    CONNECT                            -->
 <!-- ===================================================== -->
@@ -529,5 +524,3 @@ If you like my work, consider ⭐ starring a repository.
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,100:06B6D4"/>
 
 </div>
-```
-
